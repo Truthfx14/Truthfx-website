@@ -52,3 +52,9 @@ footer {
   }
 }
 ```
+.logo {
+  width: 100px;
+  display: block;
+  margin: 0 auto 1rem;
+}
+```
