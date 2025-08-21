@@ -124,4 +124,44 @@ files -->
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!--
+  <!--```css
+section.payment-section {
+  background-color: #f0f4ff;
+  padding: 2rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+section.payment-section h2 {
+  color: #0b3d91;
+  margin-bottom: 1rem;
+}
+
+section.payment-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+section.payment-section ul li {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.register-button {
+  background-color: #0b3d91;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 1rem;
+  transition: background 0.3s;
+}
+
+.register-button:hover {
+  background-color: #062c6e;
+}
+```
+
+---
