@@ -184,4 +184,28 @@ section.payment-section ul li {
   margin-bottom: 0.75rem;
   font-size: 1rem;
 }
-```
+``````css
+.testimonials-section {
+  padding: 2rem;
+  background-color: #f9f9f9;
+  margin-top: 2rem;
+  border-radius: 8px;
+}
+
+.testimonials-section h2 {
+  text-align: center;
+  color: #0b3d91;
+  margin-bottom: 2rem;
+}
+
+.testimonial {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+
+.testimonial img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
