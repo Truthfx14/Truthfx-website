@@ -96,3 +96,17 @@ ul li {
   font-weight: bold;
   text-align: right;
 }
+```css
+blockquote {
+  background: #f0f4ff;
+  border-left: 4px solid #0b3d91;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  font-style: italic;
+}
+
+blockquote footer {
+  text-align: right;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
