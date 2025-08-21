@@ -82,4 +82,17 @@ ul li {
   margin-bottom: 0.5rem;
   line-height: 1.6;
 }
-```
+```css
+.testimonials blockquote {
+  background: #f0f0f0;
+  padding: 1rem;
+  border-left: 4px solid #0b3d91;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+.testimonials footer {
+  margin-top: 0.5rem;
+  font-weight: bold;
+  text-align: right;
+}
