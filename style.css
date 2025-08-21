@@ -50,8 +50,7 @@ footer {
   footer {
     font-size: 0.8rem;
   }
-}
-```
+
 ```css
 .logo {
   max-width: 120px;
@@ -59,8 +58,6 @@ footer {
   display: block;
   margin: 0 auto 1rem;
 }
-}
-```
 css
 .btn {
   display: inline-block;
