@@ -162,6 +162,26 @@ section.payment-section ul li {
 .register-button:hover {
   background-color: #062c6e;
 }
-```
+```css
+.benefits-section {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
 
----
+.benefits-section h2 {
+  color: #0b3d91;
+  margin-bottom: 1rem;
+}
+
+.benefits-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.benefits-section li {
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+```
