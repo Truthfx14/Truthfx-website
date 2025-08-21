@@ -58,3 +58,19 @@ footer {
   margin: 0 auto 1rem;
 }
 ```
+css
+.btn {
+  display: inline-block;
+  background: #0b3d91;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #062b6f;
+}
+```
